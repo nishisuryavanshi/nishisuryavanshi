@@ -40,3 +40,42 @@
 🚀 Always learning, building real-world projects, and improving my software development skills.
 
 📍 **Bangalore, India**
+
+---
+
+# 🛠 Tech
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,html,css,js,bootstrap,postgres,mysql,sqlite,git,github,vscode,postman&perline=5"/>
+</p>
+
+### 💻 Languages
+- Python
+- JavaScript
+- SQL
+- HTML5
+- CSS3
+
+### 🚀 Frameworks
+- Django
+- Flask
+- FastAPI
+- Bootstrap
+
+### 🗄️ Databases
+- PostgreSQL
+- MySQL
+- SQLite
+
+### 🤖 AI & Data Analytics
+- OpenAI API
+- LangChain
+- Pandas
+- NumPy
+- Power BI
+- Tableau
+
+### 🛠️ Tools
+- Git
+- GitHub
+- VS Code
+- Postman
