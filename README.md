@@ -130,3 +130,60 @@
 - 🔎 Search by city
 - ☁️ API integration
 - 📱 Responsive design
+
+---
+
+# 💼 Experience
+
+## Python Full Stack Development Intern
+**🏢 Pentagon Space**
+
+- Built responsive web applications using Python and Django.
+- Worked with REST APIs and database integration.
+- Improved debugging and problem-solving skills.
+- Collaborated in an Agile development environment.
+
+<br>
+
+## Python Full Stack & AI Development Trainee
+**🏢 Shamgar Software Solutions**
+
+- Developed web applications using Django and Flask.
+- Integrated REST APIs into applications.
+- Worked with PostgreSQL and SQL databases.
+- Gained hands-on experience with AI-powered solutions.
+
+---
+
+# 🏆 Certifications
+
+- 🐍 Python Programming
+- 🌐 Django & Flask Development
+- 🗄️ SQL & PostgreSQL
+- 🤖 AI & Machine Learning Fundamentals
+- 📊 Data Analytics (Power BI & Tableau)
+
+---
+# 🌱 Current Focus
+
+- 🚀 Building real-world Python Full Stack applications
+- 🤖 Exploring Generative AI and LangChain
+- 🌐 Learning Advanced Django & REST APIs
+- ☁️ Expanding knowledge in AWS Cloud
+- 📊 Improving Data Analytics skills with Python and SQL
+
+---
+# 📫 Connect With Me
+
+- 📧 **Email:** suryawanshinishi@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/nishi-suryavanshi/
+- 💻 **GitHub:** https://github.com/nishisuryavanshi
+
+---
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Grow."*
+
+</div>
