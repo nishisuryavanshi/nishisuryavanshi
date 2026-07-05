@@ -7,7 +7,7 @@ Passionate about Data Analytics
 
 ![Profile
 Views](https://komarev.com/ghpvc/?username=nishisuryavanshi&color=6f42c1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nishi-suryavanshi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nishi-suryavanshi-52959a2ab/)
 [![Email](https://img.shields.io/badge/Email-suryawanshinishi@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:suryawanshinishi@gmail.com)
 :::
 
