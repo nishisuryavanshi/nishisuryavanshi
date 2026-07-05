@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Nishi Suryavanshi
 
-::: {align="center"}
 # Python Full Stack Developer \| AI & Data Analytics Enthusiast
 
 Building scalable web applications • Exploring Generative AI •
