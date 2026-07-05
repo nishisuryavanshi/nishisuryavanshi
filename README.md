@@ -177,7 +177,7 @@
 # 📫 Connect With Me
 
 - 📧 **Email:** suryawanshinishi@gmail.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/nishi-suryavanshi/
+- 💼 **LinkedIn:** https://www.linkedin.com/in/nishi-suryavanshi-52959a2ab/
 - 💻 **GitHub:** https://github.com/nishisuryavanshi
 
 ---
