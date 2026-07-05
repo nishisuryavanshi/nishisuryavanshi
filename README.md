@@ -27,3 +27,16 @@
 </div>
 
 ---
+## 👩‍💻 About Me
+
+🎓 **B.E. Graduate (2026)**
+
+💻 Passionate **Python Full Stack Developer** with hands-on experience building web applications using **Django, Flask, FastAPI, PostgreSQL, HTML, CSS, JavaScript, and REST APIs.**
+
+🤖 Exploring **Generative AI**, **OpenAI APIs**, and **LangChain** to build intelligent software solutions.
+
+📊 Enthusiastic about **Data Analytics** using **Python, Pandas, NumPy, SQL, Power BI, and Tableau**.
+
+🚀 Always learning, building real-world projects, and improving my software development skills.
+
+📍 **Bangalore, India**
