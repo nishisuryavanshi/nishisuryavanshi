@@ -43,7 +43,7 @@
 
 ---
 
-# 🛠 Tech
+# 🛠 Tech Stack
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,html,css,js,bootstrap,postgres,mysql,sqlite,git,github,vscode,postman&perline=5"/>
 </p>
@@ -79,3 +79,54 @@
 - GitHub
 - VS Code
 - Postman
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 AI Powered Task Manager
+**Tech Stack:** Django • PostgreSQL • OpenAI API • HTML • CSS • JavaScript
+
+- 🤖 AI-powered task management system
+- 🔐 Secure authentication
+- 📅 Smart task organization
+- 🎯 Responsive and modern UI
+
+---
+
+## 🎓 Student Management System
+**Tech Stack:** Flask • MySQL • HTML • CSS • JavaScript
+
+- 👨‍🎓 Student record management
+- ➕ CRUD operations
+- 🗄️ Database integration
+- 📱 Responsive interface
+
+---
+
+## 📝 Blog Platform
+**Tech Stack:** Flask • SQLite • HTML • CSS • JavaScript
+
+- ✍️ Create and manage blog posts
+- 👤 User authentication
+- 💬 Comment system
+- 📱 Responsive design
+
+---
+
+## 👟 Sneakers Website
+**Tech Stack:** HTML • CSS • JavaScript
+
+- 🛒 Responsive e-commerce landing page
+- 🎨 Modern UI design
+- 📱 Mobile-friendly layout
+
+---
+
+## 🌦️ Weather App
+**Tech Stack:** HTML • CSS • JavaScript • Weather API
+
+- 🌍 Real-time weather updates
+- 🔎 Search by city
+- ☁️ API integration
+- 📱 Responsive design
