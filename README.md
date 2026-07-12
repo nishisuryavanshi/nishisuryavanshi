@@ -88,6 +88,17 @@ I'm a **2026 B.E. graduate** actively looking for **Full Stack Developer / Pytho
 
 ---
 
+# 📫 Connect With Me
+
+- 📧 **Email:** suryawanshinishi@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/nishi-suryavanshi-52959a2ab/
+- 💻 **GitHub:** https://github.com/nishisuryavanshi
+
+---
 <div align="center">
-📫 Reach out — always open to interesting projects, internships, and full-time roles.
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Grow."*
+
 </div>
