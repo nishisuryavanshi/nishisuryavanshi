@@ -88,15 +88,6 @@ I'm a **2026 B.E. graduate** actively looking for **Full Stack Developer / Pytho
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nishisuryavanshi&show_icons=true&theme=radical&cache_seconds=1800" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishisuryavanshi&layout=compact&theme=radical&cache_seconds=1800" height="165"/>
-</p>
-
----
-
 <div align="center">
 📫 Reach out — always open to interesting projects, internships, and full-time roles.
 </div>
