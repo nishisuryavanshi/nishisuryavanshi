@@ -110,7 +110,7 @@ I'm a **2026 B.E. graduate** actively looking for **Full Stack Developer / Pytho
 # 💼 Experience
 
 ## Python Full Stack Development Intern
-**🏢 Pentagon Space**
+**🏢 Technex IIT BHU **
 
 - Built responsive web applications using Python and Django.
 - Worked with REST APIs and database integration.
