@@ -58,33 +58,93 @@ I'm a **2026 B.E. graduate** actively looking for **Full Stack Developer / Pytho
 
 ## 🚀 Featured Projects
 
-### 🤖 [AI-Powered Task Manager](https://github.com/nishisuryavanshi/REPLACE-WITH-REPO-NAME)
+## 🤖 AI Powered Task Manager
 **Tech Stack:** Django • PostgreSQL • OpenAI API • HTML • CSS • JavaScript
 
-- Built an AI-assisted task manager that auto-prioritizes tasks using the OpenAI API based on deadline and urgency keywords
-- Implemented secure user authentication with session-based access control
-- Designed a responsive UI usable on both desktop and mobile
-- 🔗 [Live Demo](#) &nbsp;|&nbsp; 📂 [Repo](#)
+- 🤖 AI-powered task management system
+- 🔐 Secure authentication
+- 📅 Smart task organization
+- 🎯 Responsive and modern UI
 
 ---
 
-### 🎓 [Student Management System](https://github.com/nishisuryavanshi/REPLACE-WITH-REPO-NAME)
+## 🎓 Student Management System
 **Tech Stack:** Flask • MySQL • HTML • CSS • JavaScript
 
-- Built full CRUD functionality for managing student records with role-based views for admins and teachers
-- Structured a normalized MySQL schema to handle student, course, and grade data
-- Designed a clean, responsive interface for quick record lookup
-- 🔗 [Live Demo](#) &nbsp;|&nbsp; 📂 [Repo](#)
+- 👨‍🎓 Student record management
+- ➕ CRUD operations
+- 🗄️ Database integration
+- 📱 Responsive interface
 
 ---
 
-### 📝 [Blog Platform](https://github.com/nishisuryavanshi/REPLACE-WITH-REPO-NAME)
+## 📝 Blog Platform
 **Tech Stack:** Flask • SQLite • HTML • CSS • JavaScript
 
-- Built a full blogging platform with user authentication and a nested comment system
-- Implemented post creation, editing, and deletion with permission checks per user
-- Designed a mobile-responsive layout for reading and writing posts
-- 🔗 [Live Demo](#) &nbsp;|&nbsp; 📂 [Repo](#)
+- ✍️ Create and manage blog posts
+- 👤 User authentication
+- 💬 Comment system
+- 📱 Responsive design
+
+---
+
+## 👟 Sneakers Website
+**Tech Stack:** HTML • CSS • JavaScript
+
+- 🛒 Responsive e-commerce landing page
+- 🎨 Modern UI design
+- 📱 Mobile-friendly layout
+
+---
+
+## 🌦️ Weather App
+**Tech Stack:** HTML • CSS • JavaScript • Weather API
+
+- 🌍 Real-time weather updates
+- 🔎 Search by city
+- ☁️ API integration
+- 📱 Responsive design
+
+---
+
+# 💼 Experience
+
+## Python Full Stack Development Intern
+**🏢 Pentagon Space**
+
+- Built responsive web applications using Python and Django.
+- Worked with REST APIs and database integration.
+- Improved debugging and problem-solving skills.
+- Collaborated in an Agile development environment.
+
+<br>
+
+## Python Full Stack & AI Development Trainee
+**🏢 Shamgar Software Solutions**
+
+- Developed web applications using Django and Flask.
+- Integrated REST APIs into applications.
+- Worked with PostgreSQL and SQL databases.
+- Gained hands-on experience with AI-powered solutions.
+
+---
+
+# 🏆 Certifications
+
+- 🐍 Python Programming
+- 🌐 Django & Flask Development
+- 🗄️ SQL & PostgreSQL
+- 🤖 AI & Machine Learning Fundamentals
+- 📊 Data Analytics (Power BI & Tableau)
+
+---
+# 🌱 Current Focus
+
+- 🚀 Building real-world Python Full Stack applications
+- 🤖 Exploring Generative AI and LangChain
+- 🌐 Learning Advanced Django & REST APIs
+- ☁️ Expanding knowledge in AWS Cloud
+- 📊 Improving Data Analytics skills with Python and SQL
 
 ---
 
