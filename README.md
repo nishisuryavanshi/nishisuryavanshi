@@ -1,10 +1,10 @@
 <div align="center">
 
 # 👋 Hi, I'm Nishi Suryavanshi
-### Python Full Stack Developer | AI & Data Analytics Enthusiast
+### Python Full Stack Developer | AI | ML
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;AI+%26+Data+Analytics+Enthusiast;Building+Scalable+Web+Applications;Exploring+Generative+AI;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;AI+%26+ML;Building+Scalable+Web+Applications;Exploring+Generative+AI;Always+Learning+New+Technologies"/>
 </p>
 
 <p align="center">
