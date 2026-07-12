@@ -1,7 +1,6 @@
 <div align="center">
 
 # 👋 Hi, I'm Nishi Suryavanshi
-
 ### Python Full Stack Developer | AI & Data Analytics Enthusiast
 
 <p align="center">
@@ -9,182 +8,95 @@
 </p>
 
 <p align="center">
-
 <a href="mailto:suryawanshinishi@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/nishi-suryavanshi-52959a2ab/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://github.com/nishisuryavanshi">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </p>
 
 </div>
 
 ---
-## 👩‍💻 About Me
 
-🎓 **B.E. Graduate (2026)**
+## 🎯 What I'm looking for
 
-💻 Passionate **Python Full Stack Developer** with hands-on experience building web applications using **Django, Flask, FastAPI, PostgreSQL, HTML, CSS, JavaScript, and REST APIs.**
-
-🤖 Exploring **Generative AI**, **OpenAI APIs**, and **LangChain** to build intelligent software solutions.
-
-📊 Enthusiastic about **Data Analytics** using **Python, Pandas, NumPy, SQL, Power BI, and Tableau**.
-
-🚀 Always learning, building real-world projects, and improving my software development skills.
-
-📍 **Bangalore, India**
+I'm a **2026 B.E. graduate** actively looking for **Full Stack Developer / Python Developer / AI-ML** roles where I can build products end-to-end — from database design to a working, deployed UI.
 
 ---
 
-# 🛠 Tech Stack
+## 👩‍💻 About Me
+
+- 🎓 **B.E. Graduate (2026)**
+- 💻 Hands-on experience building web apps with **Django, Flask, FastAPI, PostgreSQL, HTML, CSS, JavaScript, REST APIs**
+- 🤖 Exploring **Generative AI**, **OpenAI APIs**, and **LangChain** to build intelligent software
+- 📊 Working with **Pandas, NumPy, SQL, Power BI, Tableau** for data analytics
+- 🚀 Building real-world projects and shipping them end-to-end
+- 📍 Bangalore, India
+
+---
+
+## 🛠 Tech Stack
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,html,css,js,bootstrap,postgres,mysql,sqlite,git,github,vscode,postman&perline=5"/>
 </p>
 
-### 💻 Languages
-- Python
-- JavaScript
-- SQL
-- HTML5
-- CSS3
-
-### 🚀 Frameworks
-- Django
-- Flask
-- FastAPI
-- Bootstrap
-
-### 🗄️ Databases
-- PostgreSQL
-- MySQL
-- SQLite
-
-### 🤖 AI & Data Analytics
-- OpenAI API
-- LangChain
-- Pandas
-- NumPy
-- Power BI
-- Tableau
-
-### 🛠️ Tools
-- Git
-- GitHub
-- VS Code
-- Postman
+| Category | Stack |
+|---|---|
+| **Languages** | Python, JavaScript, SQL, HTML5, CSS3 |
+| **Frameworks** | Django, Flask, FastAPI, Bootstrap |
+| **Databases** | PostgreSQL, MySQL, SQLite |
+| **AI & Data** | OpenAI API, LangChain, Pandas, NumPy, Power BI, Tableau |
+| **Tools** | Git, GitHub, VS Code, Postman |
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🤖 AI Powered Task Manager
+### 🤖 [AI-Powered Task Manager](https://github.com/nishisuryavanshi/REPLACE-WITH-REPO-NAME)
 **Tech Stack:** Django • PostgreSQL • OpenAI API • HTML • CSS • JavaScript
 
-- 🤖 AI-powered task management system
-- 🔐 Secure authentication
-- 📅 Smart task organization
-- 🎯 Responsive and modern UI
+- Built an AI-assisted task manager that auto-prioritizes tasks using the OpenAI API based on deadline and urgency keywords
+- Implemented secure user authentication with session-based access control
+- Designed a responsive UI usable on both desktop and mobile
+- 🔗 [Live Demo](#) &nbsp;|&nbsp; 📂 [Repo](#)
 
 ---
 
-## 🎓 Student Management System
+### 🎓 [Student Management System](https://github.com/nishisuryavanshi/REPLACE-WITH-REPO-NAME)
 **Tech Stack:** Flask • MySQL • HTML • CSS • JavaScript
 
-- 👨‍🎓 Student record management
-- ➕ CRUD operations
-- 🗄️ Database integration
-- 📱 Responsive interface
+- Built full CRUD functionality for managing student records with role-based views for admins and teachers
+- Structured a normalized MySQL schema to handle student, course, and grade data
+- Designed a clean, responsive interface for quick record lookup
+- 🔗 [Live Demo](#) &nbsp;|&nbsp; 📂 [Repo](#)
 
 ---
 
-## 📝 Blog Platform
+### 📝 [Blog Platform](https://github.com/nishisuryavanshi/REPLACE-WITH-REPO-NAME)
 **Tech Stack:** Flask • SQLite • HTML • CSS • JavaScript
 
-- ✍️ Create and manage blog posts
-- 👤 User authentication
-- 💬 Comment system
-- 📱 Responsive design
+- Built a full blogging platform with user authentication and a nested comment system
+- Implemented post creation, editing, and deletion with permission checks per user
+- Designed a mobile-responsive layout for reading and writing posts
+- 🔗 [Live Demo](#) &nbsp;|&nbsp; 📂 [Repo](#)
 
 ---
 
-## 👟 Sneakers Website
-**Tech Stack:** HTML • CSS • JavaScript
+## 📊 GitHub Stats
 
-- 🛒 Responsive e-commerce landing page
-- 🎨 Modern UI design
-- 📱 Mobile-friendly layout
-
----
-
-## 🌦️ Weather App
-**Tech Stack:** HTML • CSS • JavaScript • Weather API
-
-- 🌍 Real-time weather updates
-- 🔎 Search by city
-- ☁️ API integration
-- 📱 Responsive design
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nishisuryavanshi&show_icons=true&theme=radical" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishisuryavanshi&layout=compact&theme=radical" height="165"/>
+</p>
 
 ---
 
-# 💼 Experience
-
-## Python Full Stack Development Intern
-**🏢 Pentagon Space**
-
-- Built responsive web applications using Python and Django.
-- Worked with REST APIs and database integration.
-- Improved debugging and problem-solving skills.
-- Collaborated in an Agile development environment.
-
-<br>
-
-## Python Full Stack & AI Development Trainee
-**🏢 Shamgar Software Solutions**
-
-- Developed web applications using Django and Flask.
-- Integrated REST APIs into applications.
-- Worked with PostgreSQL and SQL databases.
-- Gained hands-on experience with AI-powered solutions.
-
----
-
-# 🏆 Certifications
-
-- 🐍 Python Programming
-- 🌐 Django & Flask Development
-- 🗄️ SQL & PostgreSQL
-- 🤖 AI & Machine Learning Fundamentals
-- 📊 Data Analytics (Power BI & Tableau)
-
----
-# 🌱 Current Focus
-
-- 🚀 Building real-world Python Full Stack applications
-- 🤖 Exploring Generative AI and LangChain
-- 🌐 Learning Advanced Django & REST APIs
-- ☁️ Expanding knowledge in AWS Cloud
-- 📊 Improving Data Analytics skills with Python and SQL
-
----
-
-# 📫 Connect With Me
-
-- 📧 **Email:** suryawanshinishi@gmail.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/nishi-suryavanshi-52959a2ab/
-- 💻 **GitHub:** https://github.com/nishisuryavanshi
-
----
 <div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Code. Learn. Build. Grow."*
-
+📫 Reach out — always open to interesting projects, internships, and full-time roles.
 </div>
